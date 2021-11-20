@@ -15,3 +15,7 @@ After successful completion of the quiz you will reach the final page where you 
 ![picture of end page](./assets/images/images3.png)
 
 ![picture of leaderboard](./assets/images/images4.png)
+
+**Note**
+Link to deployed application:
+https://awonka.github.io/HW4-Code-Quiz/
